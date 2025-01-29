@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git repository.
 <br>
-Author-Pradeep Kushwah
+Author-Pradeep Kushwah ji
